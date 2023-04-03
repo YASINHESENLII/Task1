@@ -1,0 +1,15 @@
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\AB103(TASK1)(A).csproj.AssemblyReference.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\AB103(TASK1)(A).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\AB103(TASK1)(A).AssemblyInfoInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\AB103(TASK1)(A).AssemblyInfo.cs
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\AB103(TASK1)(A).csproj.CoreCompileInputs.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\bin\Debug\net7.0\AB103(TASK1)(A).exe
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\bin\Debug\net7.0\AB103(TASK1)(A).deps.json
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\bin\Debug\net7.0\AB103(TASK1)(A).runtimeconfig.json
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\bin\Debug\net7.0\AB103(TASK1)(A).dll
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\bin\Debug\net7.0\AB103(TASK1)(A).pdb
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\AB103(TASK1)(A).dll
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\refint\AB103(TASK1)(A).dll
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\AB103(TASK1)(A).pdb
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\AB103(TASK1)(A).genruntimeconfig.cache
+C:\Users\Asus\Music\1 ci is\3 cu is\AB103(TASK1)(A)\AB103(TASK1)(A)\obj\Debug\net7.0\ref\AB103(TASK1)(A).dll
